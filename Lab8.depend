@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586168810 source:d:\Новая папка\lab8\main.cpp
+	<iostream>
+	"City.h"
+
+1586168434 d:\Новая папка\lab8\include\city.h
+	<iostream>
+
+1586169516 source:d:\Новая папка\lab8\src\city.cpp
+	<iostream>
+	"City.h"
+
